@@ -1,0 +1,56 @@
+#include<stdio.h>
+int main()
+{
+    char a[200],b[200],c[200];
+    scanf("%s %s %s",&a,&b,&c);
+    if(a=='vertebrado')
+    {
+        if(b=='ave')
+        {
+            if(c=='carnivoro')
+            {
+                printf("aguia");
+            }
+            else
+            {
+                printf("pomba");
+            }
+        }
+        else
+        {
+            if(c=='oniovoro')
+            {
+                printf("homem");
+            }
+            else
+            {
+                printf("vaca");
+            }
+        }
+        else
+        {
+         if(b=='inseto')
+        {
+            if(c=='hematofago')
+            {
+                printf("pulga");
+            }
+            else
+            {
+                printf("lagarta");
+            }
+        }
+        else
+        {
+            if(c=='hematofago')
+            {
+                printf("sanguessuga");
+            }
+            else
+            {
+                printf("minhoca");
+            }
+        }
+    }
+    return 0;
+}

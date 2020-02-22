@@ -1,0 +1,26 @@
+
+**Storing Employee info: 1
+
+Employee ID: 123
+Employee's Name: fahim faysal
+Designation: husband
+Basic Salary: 9.80988e+011
+Home Bonus: 1.12814e+011
+Medical: 9.80988e+010
+Total: 1.1919e+012
+
+
+=> Updated the Designation of the Employee ID: 123 from husband to Twins er abbu
+
+- - - Updated info - - -
+
+Employee ID: 123
+Employee's Name: fahim faysal
+Designation: Twins er abbu
+Basic Salary: 9.80988e+011
+Home Bonus: 1.12814e+011
+Medical: 9.80988e+010
+Total: 1.1919e+012
+
+
+=> Employee ID: 123 has been searched

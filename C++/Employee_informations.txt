@@ -1,0 +1,72 @@
+
+Storing Employee info: 1
+
+Employee ID: 111
+Employee's Name: nuren
+Designation: sgdkds
+Basic Salary: 8768
+Home Bonus: 1008.32
+Medical: 876.8
+Total: 10653.1
+
+Storing Employee info: 2
+
+Employee ID: 222
+Employee's Name: abha
+Designation: igia
+Basic Salary: 987
+Home Bonus: 113.505
+Medical: 98.7
+Total: 1199.2
+
+
+=> Employee ID: 222 has been searched
+
+
+=> Updated the name of the Employee ID: 111 from nuren to durdana
+
+- - - Updated info - - -
+
+Employee ID: 111
+Employee's Name: durdana
+Designation: sgdkds
+Basic Salary: 8768
+Home Bonus: 1008.32
+Medical: 876.8
+Total: 10653.1
+
+
+=> Updated the Designation of the Employee ID: 222 from igia to student
+
+- - - Updated info - - -
+
+Employee ID: 222
+Employee's Name: abha
+Designation: student
+Basic Salary: 987
+Home Bonus: 113.505
+Medical: 98.7
+Total: 1199.2
+
+
+=> Updated the Basic Salary of the Employee ID: 222 from 987 to 999
+
+- - - Updated info - - -
+
+Employee ID: 222
+Employee's Name: abha
+Designation: student
+Basic Salary: 999
+Home Bonus: 114.885
+Medical: 99.9
+Total: 1213.79
+
+Storing Employee info: 3
+
+Employee ID: 333
+Employee's Name: bithi
+Designation: bf
+Basic Salary: 798
+Home Bonus: 91.77
+Medical: 79.8
+Total: 969.57
